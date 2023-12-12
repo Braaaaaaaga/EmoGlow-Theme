@@ -9,7 +9,3 @@ A dark theme for visual studio code
 - Then enter Install Extension
 - Write EmoGlow-Theme
 - Select it or press Enter to install
-
-## License
-
-[MIT License](./LICENSE)

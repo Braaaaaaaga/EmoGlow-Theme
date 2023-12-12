@@ -4,7 +4,7 @@ EmoGlow is a vibrant Visual Studio Code theme that aims to enhance your coding e
 
 <img src="https://raw.githubusercontent.com/eubraianbraga/EmoGlow-Theme/main/icon.png" width="100"/>
 
-![screenshot](https://raw.githubusercontent.com/eubraianbraga/EmoGlow-Theme/main/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/eubraianbraga/EmoGlow-Theme/main/screenshot.jpeg)
 
 ## Features
 

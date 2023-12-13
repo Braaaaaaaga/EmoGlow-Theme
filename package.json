@@ -9,7 +9,7 @@
   "publisher": "euBraianBraga",
   "license": "MIT",
   "icon": "icon.png",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.58.0"
   },
@@ -22,11 +22,6 @@
         "label": "EmoGlow",
         "uiTheme": "vs-dark",
         "path": "./themes/EmoGlow-color-theme.json"
-      },
-      {
-        "label": "EmoGlowWhite",
-        "uiTheme": "vs",
-        "path": "./themes/EmoGlow-color-theme-white.json"
       }
     ]
   }
